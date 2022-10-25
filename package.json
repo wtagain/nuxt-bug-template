@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "core-js": "^3.19.3",
-    "nuxt-edge": "^2.16.0-27717142.54e852f",
+    "nuxt-edge": "^2.16.0-27720022.54e852f",
     "vue-server-renderer": "^2.6.14",
     "vue-template-compiler": "^2.6.14",
     "webpack": "^4.46.0"
   },
   "devDependencies": {
-    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27718044.2f69fe0"
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27777123.cddc4d0"
   }
 }
